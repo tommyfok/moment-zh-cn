@@ -113,3 +113,6 @@ moment.defineLocale('zh-cn', {
         doy : 4  // The week that contains Jan 4th is the first week of the year.
     }
 });
+
+// 默认开启中文模式
+moment.locale('zh-cn');
