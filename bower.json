@@ -1,0 +1,18 @@
+{
+  "name": "moment-zh-cn",
+  "main": "moment-zh-cn.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tommyfok/moment-zh-cn",
+  "authors": [
+    "tommyfok <154274174@qq.com>"
+  ],
+  "description": "momentjs的简体中文包，方便bower单独引入，依赖momentjs",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
